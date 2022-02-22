@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {}
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj",
         "projectName": "Ivalia.DataTransfer",
-        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj",
+        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj",
         "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\obj\\",
+        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",

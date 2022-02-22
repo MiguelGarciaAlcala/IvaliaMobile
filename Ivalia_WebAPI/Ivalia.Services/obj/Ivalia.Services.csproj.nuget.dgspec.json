@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {}
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
         "projectName": "Ivalia.Services",
-        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
+        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
         "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Services\\obj\\",
+        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",

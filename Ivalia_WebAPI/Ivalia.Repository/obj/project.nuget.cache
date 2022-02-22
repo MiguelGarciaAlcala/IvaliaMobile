@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vsnz26XOnfUoI1psZf/Bdsehsm/Jdhcs3gr00rH6x2Nho9kBMr05eA3o8TOMHClfQn4NLxw6HvXVdO63HkwzFw==",
+  "dgSpecHash": "UAY2LmMrXfdVnDngyo9BqJhjZOT6OwjIdY5iIgiPICSRuqvEsqIV3bYiGH75CMUhdGqWfcMUE+XI8dNdqHExPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
+  "projectFilePath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

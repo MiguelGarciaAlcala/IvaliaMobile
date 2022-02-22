@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mIzr6kO/Ymn7Osi/08hULzimSn+4oLCGU09d3cjwcO+ElbN+3OGMdsGISE3QrVZRj/xg4xWr3oI5CHcyI3n8hg==",
+  "dgSpecHash": "ICsjMk04GCquPT1ZewNwr9qUo0mcOILypOu1bcpqHhjyV58ZophdUTzfsLmvc/VRFDAHBFMsYyTDX3K8PZyXcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

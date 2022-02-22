@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {}
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
+    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj",
+        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj",
         "projectName": "Ivalia.Abstractions",
-        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj",
+        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj",
         "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\obj\\",
+        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",

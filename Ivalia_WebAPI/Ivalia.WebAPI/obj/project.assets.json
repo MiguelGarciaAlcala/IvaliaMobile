@@ -6055,11 +6055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.WebAPI\\Ivalia.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.WebAPI\\Ivalia.WebAPI.csproj",
       "projectName": "Ivalia.WebAPI",
-      "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.WebAPI\\Ivalia.WebAPI.csproj",
+      "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.WebAPI\\Ivalia.WebAPI.csproj",
       "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6076,17 +6076,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj"
+            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
+              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj"
+            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Application\\Ivalia.Application.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.Application\\Ivalia.Application.csproj"
+            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Application\\Ivalia.Application.csproj": {
+              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Application\\Ivalia.Application.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj"
+            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj"
             }
           }
         }

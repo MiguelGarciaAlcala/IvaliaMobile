@@ -10,3 +10,15 @@ C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug
 C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\ref\Ivalia.Abstractions.dll
 C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.pdb
 C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.csprojAssemblyReference.cache
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\bin\Debug\net5.0\Ivalia.Abstractions.deps.json
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\bin\Debug\net5.0\Ivalia.Abstractions.dll
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\bin\Debug\net5.0\ref\Ivalia.Abstractions.dll
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\bin\Debug\net5.0\Ivalia.Abstractions.pdb
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.csprojAssemblyReference.cache
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.AssemblyInfoInputs.cache
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.AssemblyInfo.cs
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.dll
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\ref\Ivalia.Abstractions.dll
+C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Abstractions\obj\Debug\net5.0\Ivalia.Abstractions.pdb
