@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.WebAPI\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-02-21T00:49:49.3667967Z;True|2022-02-20T16:35:44.9962696-06:00;True|2022-02-14T23:08:53.4320559-06:00;True|2022-02-13T18:13:17.6004360-06:00;True|2022-02-06T22:28:07.1713051-06:00;</History>
+  </PropertyGroup>
+</Project>

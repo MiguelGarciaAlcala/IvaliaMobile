@@ -1,0 +1,11 @@
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.deps.json
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\ref\Ivalia.Entities.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.pdb
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.AssemblyInfoInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.AssemblyInfo.cs
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\ref\Ivalia.Entities.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.pdb

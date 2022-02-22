@@ -1,0 +1,12 @@
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\bin\Debug\net5.0\Ivalia.Services.deps.json
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\bin\Debug\net5.0\Ivalia.Services.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\bin\Debug\net5.0\ref\Ivalia.Services.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\bin\Debug\net5.0\Ivalia.Services.pdb
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.csprojAssemblyReference.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.AssemblyInfoInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.AssemblyInfo.cs
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\ref\Ivalia.Services.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\Ivalia.Services\obj\Debug\net5.0\Ivalia.Services.pdb

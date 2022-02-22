@@ -1,0 +1,12 @@
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\bin\Debug\net5.0\DataTransfer.deps.json
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\bin\Debug\net5.0\DataTransfer.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\bin\Debug\net5.0\ref\DataTransfer.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\bin\Debug\net5.0\DataTransfer.pdb
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.csprojAssemblyReference.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.AssemblyInfoInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.AssemblyInfo.cs
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\ref\DataTransfer.dll
+C:\Users\desarrollador.softwa\Videos\Ivalia_WebAPI\DataTransfer\obj\Debug\net5.0\DataTransfer.pdb

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ivalia.Abstractions\Ivalia.Abstractions.csproj" />
+    <ProjectReference Include="..\Ivalia.DataAccess\Ivalia.DataAccess.csproj" />
+    <ProjectReference Include="..\Ivalia.Repository\Ivalia.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
