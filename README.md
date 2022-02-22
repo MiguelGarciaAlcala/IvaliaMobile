@@ -1,2 +1,2 @@
 # IvaliaMobile
-Ivalia Móvil
+Ivalia Mobile Application
