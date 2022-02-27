@@ -4,7 +4,7 @@ import 'package:ivalia_mobile/api/ivalia_api.dart';
 import 'package:ivalia_mobile/api/models/request/user_login_request.dart';
 import 'package:ivalia_mobile/api/models/request/user_recovery_request.dart';
 import 'package:ivalia_mobile/api/models/view/logged_user.dart';
-import 'package:ivalia_mobile/tools/hash_manager.dart';
+import 'package:ivalia_mobile/tools/encryption_manager.dart';
 import 'package:ivalia_mobile/ui/styles/colors.dart';
 import 'package:ivalia_mobile/ui/styles/fonts.dart';
 import 'package:ivalia_mobile/ui/widgets/common/padded.dart';
@@ -122,7 +122,7 @@ class _LoginPageState extends State<LoginPage> {
                               if(username.isNotEmpty && password.isNotEmpty) {
                                 final loginRequest = UserLoginRequest(
                                     username: username, 
-                                    hashedPassword: HashManager.sha256(password)
+                                    hashedPassword: EncryptionManager.encrypt(password)
                                 );
 
                                 final response = await IvaliaAPI.instance.users.login(loginRequest);
