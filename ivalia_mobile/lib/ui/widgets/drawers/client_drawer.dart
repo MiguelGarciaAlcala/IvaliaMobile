@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:ivalia_mobile/ui/styles/colors.dart';
-import 'package:ivalia_mobile/ui/widgets/common/padded.dart';
 import 'package:ivalia_mobile/ui/widgets/pages/myprofile_page.dart';
 import 'package:multilevel_drawer/multilevel_drawer.dart';
 

@@ -203,7 +203,21 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                       ),
                     ),
                   ),
-                  const Divider(),
+                  Stack(
+                    children: [
+                      Align(
+                        alignment: Alignment.bottomRight,
+                        child: FloatingActionButton(
+                          onPressed: () {
+                            // Add your onPressed code here!
+                          },
+                          backgroundColor: ColorStyles.darkBlue,
+                          child: const Icon(Icons.save),
+                        ),
+                      ),
+                    ],
+                  )
+
                 ],
               ),
             ), // padded

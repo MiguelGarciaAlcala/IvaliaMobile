@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {}
+    "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {
+    "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
+        "projectUniqueName": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
         "projectName": "Ivalia.Services",
-        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
-        "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Services\\obj\\",
+        "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Services\\Ivalia.Services.csproj",
+        "packagesPath": "C:\\Users\\lider.sap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Services\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lider.sap\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

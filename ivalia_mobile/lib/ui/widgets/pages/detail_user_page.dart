@@ -15,15 +15,7 @@ class DetailUserPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: PageBar(title: 'Perfil de Usuario'),
-        body: DetailUserList(items: items,),
-      floatingActionButton: FloatingActionButton(
-        onPressed: () {
-          // Add your onPressed code here!
-        },
-        backgroundColor: ColorStyles.darkBlue,
-        child: const Icon(Icons.save),
-      ),
-
+        body: DetailUserList(items: items,)
     );
   }
 }

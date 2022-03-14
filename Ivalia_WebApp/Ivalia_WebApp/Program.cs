@@ -23,4 +23,5 @@ namespace Ivalia_WebApp
                     webBuilder.UseStartup<Startup>();
                 });
     }
+
 }

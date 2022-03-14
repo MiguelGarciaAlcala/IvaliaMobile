@@ -4,13 +4,35 @@ import 'package:ivalia_mobile/api/models/view/logged_user_act.dart';
 import 'package:ivalia_mobile/ui/styles/colors.dart';
 import 'package:ivalia_mobile/ui/widgets/common/padded.dart';
 
-class MyProfileItem extends StatelessWidget {
+class MyProfileItem extends StatefulWidget {
   final LoggedUserAct items;
   final TextEditingController usernameController;
   final TextEditingController passwordController;
 
-  const MyProfileItem({required this.items,required this.passwordController,
-                        required this.usernameController, Key? key}) : super(key: key);
+  const MyProfileItem(
+      {required this.items,
+      required this.passwordController,
+      required this.usernameController,
+      Key? key})
+      : super(key: key);
+
+  @override
+  State<MyProfileItem> createState() => _MyProfileItemState();
+}
+
+class _MyProfileItemState extends State<MyProfileItem> {
+  late bool isVisible;
+
+  @override
+  void initState() {
+    super.initState();
+    isVisible = true;
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -44,7 +66,7 @@ class MyProfileItem extends StatelessWidget {
                       minRadius: 60.0,
                       child: CircleAvatar(
                         maxRadius: 60,
-                        backgroundImage: NetworkImage(items.LogourlUser),
+                        backgroundImage: NetworkImage(widget.items.LogourlUser),
                       )),
                 ],
               ),
@@ -52,7 +74,7 @@ class MyProfileItem extends StatelessWidget {
                 height: 10,
               ),
               Text(
-                items.fullname,
+                widget.items.fullname,
                 style: const TextStyle(
                   fontSize: 20,
                   fontWeight: FontWeight.bold,
@@ -61,7 +83,7 @@ class MyProfileItem extends StatelessWidget {
               ),
               //user name
               Text(
-                items.role,
+                widget.items.role,
                 style: const TextStyle(
                   color: Colors.white,
                   fontSize: 15,
@@ -80,6 +102,44 @@ class MyProfileItem extends StatelessWidget {
                 children: [
                   ListTile(
                     title: const Text(
+                      'Tipo de usuario',
+                      style: TextStyle(
+                        color: ColorStyles.darkBlue,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    subtitle: TextFormField(
+                      enabled: false,
+                      initialValue: widget.items.role,
+                      decoration: const InputDecoration(
+                        border: InputBorder.none,
+                        hintText: 'Ingresa el tipo de usuario',
+                      ),
+                    ),
+                  ),
+                  Divider(),
+                  ListTile(
+                    title: const Text(
+                      'Nombre de usuario',
+                      style: TextStyle(
+                        color: ColorStyles.darkBlue,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    subtitle: TextFormField(
+                      //enabled: false,
+                      initialValue: widget.items.fullname,
+                      decoration: const InputDecoration(
+                        border: InputBorder.none,
+                        hintText: 'Ingresa el nombre del usuario',
+                      ),
+                    ),
+                  ),
+                  Divider(),
+                  ListTile(
+                    title: const Text(
                       'Email',
                       style: TextStyle(
                         color: ColorStyles.darkBlue,
@@ -89,7 +149,7 @@ class MyProfileItem extends StatelessWidget {
                     ),
                     subtitle: TextField(
                       //enabled: false,
-                      controller: usernameController,
+                      controller: widget.usernameController,
                       decoration: const InputDecoration(
                         border: InputBorder.none,
                         hintText: 'Ingresa tu correo',
@@ -108,36 +168,42 @@ class MyProfileItem extends StatelessWidget {
                     ),
                     subtitle: TextField(
                       //enabled: _isEnabled,
-                      controller: passwordController,
+                      controller: widget.passwordController,
                       //errorText: _validPassword ? null : 'Contraseña requerida',
-                      obscureText: _isVisible,
+                      obscureText: isVisible,
                       decoration: InputDecoration(
                           border: InputBorder.none,
                           hintText: 'Ingresa tu contraseña',
                           suffixIcon: GestureDetector(
                               onTap: () {
-                                _isVisible = !_isVisible;
+                                setState(() {
+                                  isVisible = !isVisible;
+                                });
                               },
                               child: Icon(
-                                  _isVisible
+                                  isVisible
                                       ? Icons.visibility
                                       : Icons.visibility_off,
                                   color: ColorStyles.darkGrey))),
                     ),
                   ),
-                  const Divider(),
-                  const SizedBox(
-                    height: 10,
-                  ),
-                  ElevatedButton(
-                    style: ElevatedButton.styleFrom(
-                      primary: ColorStyles.lightGrey,
-                    ),
-                    child: const Text(
-                      'Actualizar',
-                      style: TextStyle(color: ColorStyles.black),
-                    ),
-                    onPressed: () {},
+                  //const Divider(),
+                  //const SizedBox(
+                    //height: 10,
+                  //),
+                  Stack(
+                    children: [
+                      Align(
+                        alignment: Alignment.bottomRight,
+                        child: FloatingActionButton(
+                          onPressed: () {
+                            // Add your onPressed code here!
+                          },
+                          backgroundColor: ColorStyles.darkBlue,
+                          child: const Icon(Icons.save),
+                        ),
+                      ),
+                    ],
                   )
                 ],
               ),

@@ -21,3 +21,15 @@ C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAP
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.dll
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\ref\Ivalia.Entities.dll
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.deps.json
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\ref\Ivalia.Entities.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\bin\Debug\net5.0\Ivalia.Entities.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.csproj.AssemblyReference.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.AssemblyInfoInputs.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.AssemblyInfo.cs
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.csproj.CoreCompileInputs.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\ref\Ivalia.Entities.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Entities\obj\Debug\net5.0\Ivalia.Entities.pdb

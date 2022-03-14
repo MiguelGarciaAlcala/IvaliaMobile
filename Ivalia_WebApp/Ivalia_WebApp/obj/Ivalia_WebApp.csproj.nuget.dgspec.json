@@ -1,20 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj": {}
+    "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj": {
+    "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
         "projectName": "Ivalia_WebApp",
-        "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
-        "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\obj\\",
+        "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
+        "packagesPath": "C:\\Users\\lider.sap\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lider.sap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +44,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "BlazorStrap": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

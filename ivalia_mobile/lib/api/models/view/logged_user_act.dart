@@ -1,5 +1,4 @@
-import 'package:flutter/cupertino.dart';
-import 'package:ivalia_mobile/api/models/view/media_link.dart';
+
 
 class LoggedUserAct {
   final int id;

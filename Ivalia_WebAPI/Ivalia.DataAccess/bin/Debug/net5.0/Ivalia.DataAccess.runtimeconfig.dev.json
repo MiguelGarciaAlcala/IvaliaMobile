@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\desarrollador.softwa\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\desarrollador.softwa\\.nuget\\packages"
+      "C:\\Users\\lider.sap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lider.sap\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

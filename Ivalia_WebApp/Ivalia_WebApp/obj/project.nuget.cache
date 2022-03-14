@@ -1,8 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "kbHI0B4p9YZ2pXv0r91Xuq0i8g9RQjyJekoxABSHW8N91ebPDgnFAHP7HvoJzipoEdDln7A4GMgoovd0elvdCg==",
+  "dgSpecHash": "CCXI21up000QYq4q4sLShMfFyF1wH3CKVaDxNV6qLHNYAdNaD5VEwsLmN+ARXTuJRRKy9T5vROo9OiESt4cBzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebApp\\Ivalia_WebApp\\Ivalia_WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lider.sap\\.nuget\\packages\\blazorcomponentutilities\\1.7.1\\blazorcomponentutilities.1.7.1.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\blazorstrap\\5.0.0\\blazorstrap.5.0.0.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.13\\microsoft.aspnetcore.authorization.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.13\\microsoft.aspnetcore.components.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.13\\microsoft.aspnetcore.components.analyzers.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\5.0.13\\microsoft.aspnetcore.components.forms.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.components.web\\5.0.13\\microsoft.aspnetcore.components.web.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.aspnetcore.metadata\\5.0.13\\microsoft.aspnetcore.metadata.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\microsoft.jsinterop\\5.0.13\\microsoft.jsinterop.5.0.13.nupkg.sha512",
+    "C:\\Users\\lider.sap\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

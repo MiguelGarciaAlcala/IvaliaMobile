@@ -40,3 +40,24 @@ C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAP
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.dll
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\ref\Ivalia.Repository.dll
 C:\Users\desarrollador.softwa\Videos\FreelanceProjects\IvaliaMobile\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Repository.deps.json
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Repository.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\ref\Ivalia.Repository.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Repository.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Abstractions.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.DataAccess.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.DataTransfer.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Entities.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.DataTransfer.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Abstractions.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.DataAccess.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\bin\Debug\net5.0\Ivalia.Entities.pdb
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.csproj.AssemblyReference.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.AssemblyInfoInputs.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.AssemblyInfo.cs
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.csproj.CoreCompileInputs.cache
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.csproj.CopyComplete
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\ref\Ivalia.Repository.dll
+C:\Users\lider.sap\OneDrive - SESAJAL\Escritorio\Pjuan\APP V1\Ivalia_WebAPI\Ivalia.Repository\obj\Debug\net5.0\Ivalia.Repository.pdb

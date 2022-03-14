@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:ivalia_mobile/ui/styles/colors.dart';
-import 'package:ivalia_mobile/ui/widgets/common/padded.dart';
-import 'package:ivalia_mobile/ui/widgets/list_views/items/admin_user_item.dart';
-import 'package:ivalia_mobile/ui/widgets/list_views/lists/admin_user_list.dart';
 import 'package:ivalia_mobile/ui/widgets/pages/admin_users_page.dart';
 import 'package:ivalia_mobile/ui/widgets/pages/myprofile_page.dart';
 import 'package:multilevel_drawer/multilevel_drawer.dart';
@@ -39,7 +36,7 @@ class _AdminDrawerState extends State<AdminDrawer> {
       ),
       children: [
         MLMenuItem(
-            leading: Icon(Icons.account_circle),
+            leading: const Icon(Icons.account_circle),
             content: const Padding(
               padding: EdgeInsets.only(left: 10),
               child: Text("Mi perfil"),
@@ -53,7 +50,7 @@ class _AdminDrawerState extends State<AdminDrawer> {
               );
             }),
         MLMenuItem(
-          leading: Icon(Icons.supervised_user_circle_outlined),
+          leading: const Icon(Icons.supervised_user_circle_outlined),
             content: const Padding(
               padding: EdgeInsets.only(left: 10),
               child: Text("Usuarios"),

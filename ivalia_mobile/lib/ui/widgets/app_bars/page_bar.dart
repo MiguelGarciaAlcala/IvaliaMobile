@@ -11,6 +11,7 @@ class PageBar extends AppBar {
         style: FontStyles.huge.copyWith(color: ColorStyles.white),
       ),
       centerTitle: true,
+
       elevation: 5,
       actions: actions,
       automaticallyImplyLeading: true,

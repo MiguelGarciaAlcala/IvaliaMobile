@@ -1,7 +1,35 @@
 ﻿@page "/"
 
-<h1>Hello, world!</h1>
+<form class="form-signin">
+    <div class="text-center">
+      <img class="rounded"
+      src="/images/Ivalia4.1.jpg" alt="" width="72" height="72"
+      >
+      </div>
+      @*<br />*@
+      <h1 class="h3 mb-3 font-weight-normal">Inicia Sesion</h1>
+      <label for="inputEmail" class="sr-only">Email address</label>
+      <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required="" autofocus="">
+      <label for="inputPassword" class="sr-only">Password</label>
+      <input type="password" id="inputPassword" class="form-control" placeholder="Password" required="">
+      <div class="checkbox mb-3">
+        <label>
+          <a href="" target="_blank">¿Olvidaste tu contraseña?</a>
+            @*<input type="button" value="remember-me"> Olvide mi contraseña*@
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
+      <p class="mt-5 mb-3 text-muted">© Ivalia S.C.</p>
+    </form>
 
-Welcome to your new app.
+ 
+@code{
+    string UserNAme;
+    string Pass;
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+    void loggin()
+    {
+        //if user
+    }
+
+}

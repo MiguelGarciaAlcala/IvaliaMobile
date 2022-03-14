@@ -5768,19 +5768,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\": {}
+    "C:\\Users\\lider.sap\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
       "projectName": "Ivalia.Repository",
-      "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
-      "packagesPath": "C:\\Users\\desarrollador.softwa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Repository\\obj\\",
+      "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Repository\\Ivalia.Repository.csproj",
+      "packagesPath": "C:\\Users\\lider.sap\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Repository\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\desarrollador.softwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lider.sap\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5794,17 +5798,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj"
+            "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj": {
+              "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\DataTransfer\\Ivalia.DataTransfer.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj"
+            "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Abstractions\\Ivalia.Abstractions.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj"
+            "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.DataAccess\\Ivalia.DataAccess.csproj"
             },
-            "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Entities\\Ivalia.Entities.csproj": {
-              "projectPath": "C:\\Users\\desarrollador.softwa\\Videos\\FreelanceProjects\\IvaliaMobile\\Ivalia_WebAPI\\Ivalia.Entities\\Ivalia.Entities.csproj"
+            "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Entities\\Ivalia.Entities.csproj": {
+              "projectPath": "C:\\Users\\lider.sap\\OneDrive - SESAJAL\\Escritorio\\Pjuan\\APP V1\\Ivalia_WebAPI\\Ivalia.Entities\\Ivalia.Entities.csproj"
             }
           }
         }
@@ -5833,7 +5837,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }

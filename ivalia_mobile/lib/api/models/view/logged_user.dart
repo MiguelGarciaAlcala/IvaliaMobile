@@ -1,3 +1,4 @@
+
 class LoggedUser {
   final int id;
   final String role;
@@ -11,9 +12,9 @@ class LoggedUser {
 
   factory LoggedUser.fromJson(Map<String, dynamic> json) {
     return LoggedUser(
-      id: json['id'] as int,
-      role: json['role'] as String,
-      token: json['token'] as String
+        id: json['id'] as int,
+        role: json['role'] as String,
+        token: json['token'] as String
     );
   }
 }
