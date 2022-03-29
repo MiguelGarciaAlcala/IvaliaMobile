@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:ivalia_mobile/api/models/view/user.dart';
 import 'package:ivalia_mobile/ui/styles/colors.dart';
 import 'package:ivalia_mobile/ui/widgets/common/padded.dart';
+import 'package:ivalia_mobile/ui/widgets/text_fields/text_input_field.dart';
 
 class DetailUserListItem extends StatefulWidget {
   final User item;
@@ -102,9 +103,10 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                     ),
                     subtitle: Column(
                       mainAxisAlignment: MainAxisAlignment.start,
-                      crossAxisAlignment: CrossAxisAlignment.end,
+                      crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Checkbox(
+                          focusColor: ColorStyles.darkBlue,
                           value: isChecked,
                           onChanged: (bool? value) {
                             setState(() {
@@ -118,20 +120,45 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                   const Divider(),
                   ListTile(
                     title: const Text(
-                      'Nombre completo de usuario',
+                      'Tipo de Usuario',
                       style: TextStyle(
                         color: ColorStyles.darkBlue,
                         fontSize: 20,
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    subtitle: TextFormField(
-                      initialValue: widget.item.Fullname,
-                      //enabled: false,
-                      decoration: const InputDecoration(
-                        border: InputBorder.none,
-                        hintText: 'Ingresa el nombre de cpmpleto',
+                    subtitle: TextInputField(
+                      controller: TextEditingController(text: widget.item.Roleid.toString()),
+                      hint: 'Ingres el nombre del usuario',
+                    ),
+                  ),
+                  const Divider(),
+                  ListTile(
+                    title: const Text(
+                      'Usuario',
+                      style: TextStyle(
+                        color: ColorStyles.darkBlue,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
                       ),
+                    ),
+                    subtitle: TextInputField(
+                      controller: TextEditingController(text: widget.item.Username),
+                      hint: 'Ingresa el usuario',
+                    ),
+                  ),
+                  ListTile(
+                    title: const Text(
+                      'Nombre del usuario',
+                      style: TextStyle(
+                        color: ColorStyles.darkBlue,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                    subtitle: TextInputField(
+                      controller: TextEditingController(text: widget.item.Fullname),
+                      hint: 'Ingres el nombre del usuario',
                     ),
                   ),
                   Divider(),
@@ -144,13 +171,9 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    subtitle: TextFormField(
-                      initialValue: widget.item.Email,
-                      //enabled: false,
-                      decoration: const InputDecoration(
-                        border: InputBorder.none,
-                        hintText: 'Ingresa tu correo',
-                      ),
+                    subtitle: TextInputField(
+                      controller: TextEditingController(text: widget.item.Email),
+                     hint: 'Ingresa el correo del usuario',
                     ),
                   ),
                   Divider(),
@@ -163,15 +186,10 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                         fontWeight: FontWeight.bold,
                       ),
                     ),
-                    subtitle: TextFormField(
-                      initialValue: widget.item.Password,
-                      //enabled: _isEnabled,
-                      //controller: passwordController,
-                      //errorText: _validPassword ? null : 'Contraseña requerida',
+                    subtitle: TextInputField(
+                      controller: TextEditingController(text: widget.item.Password),
                       obscureText: _isVisible,
-                      decoration: InputDecoration(
-                          border: InputBorder.none,
-                          hintText: 'Ingresa tu contraseña',
+                          hint: 'Ingres la contraseña del usuario',
                           suffixIcon: GestureDetector(
                               onTap: () {
                                 setState(() {
@@ -182,25 +200,8 @@ class _DetailUserListItemState extends State<DetailUserListItem> {
                                   _isVisible
                                       ? Icons.visibility
                                       : Icons.visibility_off,
-                                  color: ColorStyles.darkGrey))),
-                    ),
-                  ),
-                  ListTile(
-                    title: const Text(
-                      'Nombre de usuario',
-                      style: TextStyle(
-                        color: ColorStyles.darkBlue,
-                        fontSize: 20,
-                        fontWeight: FontWeight.bold,
-                      ),
-                    ),
-                    subtitle: TextFormField(
-                      initialValue: widget.item.Username,
-                      //enabled: false,
-                      decoration: const InputDecoration(
-                        border: InputBorder.none,
-                        hintText: 'Ingresa tu correo',
-                      ),
+                                  color: ColorStyles.darkGrey))
+
                     ),
                   ),
                   Stack(

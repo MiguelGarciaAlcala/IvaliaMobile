@@ -63,7 +63,7 @@ class _AdminUserPageState extends State<AdminUserPage> {
 
       floatingActionButton: FloatingActionButton(
         onPressed: () {
-          Navigator.pop(context);
+          //Navigator.pop(context);
           Navigator.push(context,
               MaterialPageRoute(
                   builder: (context) => AddUserPage()

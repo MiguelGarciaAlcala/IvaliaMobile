@@ -66,7 +66,7 @@ class AdminUserListItem extends StatelessWidget {
             },
             icon: Icon(Icons.arrow_forward)),
         onTap: () {
-          Navigator.pop(context);
+          //Navigator.pop(context);
           Navigator.push(
               context,
               MaterialPageRoute(
